@@ -1,0 +1,5 @@
+name: Youtube
+description: Youtube integration.
+type: module
+core: 8.x
+configure: youtube.admin_settings

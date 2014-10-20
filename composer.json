@@ -1,0 +1,17 @@
+{
+    "name": "drupal/youtube",
+    "type": "drupal-module",
+    "description": "Youtube integration.",
+    "require": {
+        "google/apiclient": "1.0.6-beta"
+    },
+    "license": "GPL-2.0+",
+    "homepage": "https://drupal.org/project/youtube",
+    "authors": [
+        {
+            "name": "Stefan Auditor (sanduhrs)",
+            "homepage": "https://www.drupal.org/u/sanduhrs"
+        }
+    ],
+    "keywords": ["drupal", "youtube", "video"]
+}

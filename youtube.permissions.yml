@@ -1,0 +1,4 @@
+administer youtube configuration:
+  title: 'Change Youtube settings'
+  description: 'Adjust Youtube settings.'
+  restrict access: TRUE

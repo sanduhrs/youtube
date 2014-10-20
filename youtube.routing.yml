@@ -1,0 +1,7 @@
+youtube.admin_settings:
+  path: '/admin/config/system/youtube'
+  defaults:
+    _form: '\Drupal\youtube\Form\SettingsForm'
+    _title: 'Youtube settings'
+  requirements:
+    _permission: 'administer youtube configuration'
